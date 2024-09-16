@@ -35,6 +35,14 @@ main {
     background-size: cover;
 }
 
+iframe#tela {
+    position: relative;
+    top: 86px;
+    left: 20px;
+    width: 285px;
+    height: 502.8px;
+}
+
 ul {
     list-style: none;
     display: flex;
